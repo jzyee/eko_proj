@@ -3,6 +3,9 @@
 
 script loads all dicom files and saves the first frame of the image/video
 
+
+Place your dicom(.dcm) files in the sample_dicoms/ folder
+
 ## how to run the file
 
 create a virtual environment to install the requirements for file
