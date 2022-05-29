@@ -19,5 +19,9 @@ Once the environemnt has all the required packages and activated, simple run the
 ```
     python ekoC.py
 ```
+## single worker vs mutliple worker results
+
+![res](results.png)
+
 
 
