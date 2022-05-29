@@ -1,0 +1,1 @@
+place your dicom files in this folder
